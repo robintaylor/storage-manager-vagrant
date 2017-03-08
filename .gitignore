@@ -1,0 +1,9 @@
+#
+.vagrant/
+
+# The dump of the live database
+sm_database*
+
+# Not sure why the following files are in this directory, but they don't look like they belong in Github
+auth
+ubuntu-xenial-16.04-cloudimg-console.log

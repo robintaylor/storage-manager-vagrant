@@ -1,0 +1,9 @@
+Things I have had to change in the code...
+
+Created an htaccess file based on htaccess.dev
+
+Created a database.php file based on database.php.default
+Created a core.php file based on core.php.dev
+
+Created an app/tmp directory with 777 perms
+
