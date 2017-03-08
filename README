@@ -1,9 +1,10 @@
-Things I have had to change in the code...
+This is a Vagrant project to spin up an Ubuntu VM to allow testing of the Storage Manager app.
+
+Its not complete in that you need to make your code accessible somewhere, and provide a database backup.
+In addition the source code is not runnable without alteration, I had to make the following manual changes...
 
 Created an htaccess file based on htaccess.dev
-
 Created a database.php file based on database.php.default
 Created a core.php file based on core.php.dev
-
 Created an app/tmp directory with 777 perms
 
